@@ -1,0 +1,9 @@
+path: ../ChineseMedicineRecognition/dataset
+train: images/train
+val: images/valid
+test:
+
+nc: 12
+names: ['KOREAN_TAEKUK_GINSENG', 'gaoli_renshen', 'Baishao', 'jujube', 'ginger_slice', 'Malva_nut_tree', 'Tianma', 'Angelica', 'spatholobus', 'Tangshen', 'myrrh', 'frankincense']
+
+download:
